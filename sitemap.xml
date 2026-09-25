@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://michprk.github.io/versus.be/fr/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/"/>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://michprk.github.io/versus.be/"/>
+    <image:image><image:loc>https://michprk.github.io/versus.be/img/og-fr.jpg</image:loc></image:image>
+    <image:image><image:loc>https://michprk.github.io/versus.be/img/bouquet-dahlias-vitrine-648.webp</image:loc></image:image>
+    <image:image><image:loc>https://michprk.github.io/versus.be/img/facade-rue-haute-1500.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/fr/confidentialite/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/privacy/"/>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/fr/conditions-generales-de-vente/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/conditions-generales-de-vente/"/>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/algemene-verkoopvoorwaarden/"/>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/fr/conditions-utilisation/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/conditions-utilisation/"/>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/gebruiksvoorwaarden/"/>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/nl/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://michprk.github.io/versus.be/"/>
+    <image:image><image:loc>https://michprk.github.io/versus.be/img/og-nl.jpg</image:loc></image:image>
+    <image:image><image:loc>https://michprk.github.io/versus.be/img/bouquet-dahlias-vitrine-648.webp</image:loc></image:image>
+    <image:image><image:loc>https://michprk.github.io/versus.be/img/facade-rue-haute-1500.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/nl/privacy/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/confidentialite/"/>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/nl/algemene-verkoopvoorwaarden/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/algemene-verkoopvoorwaarden/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/conditions-generales-de-vente/"/>
+  </url>
+  <url>
+    <loc>https://michprk.github.io/versus.be/nl/gebruiksvoorwaarden/</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="nl-BE" href="https://michprk.github.io/versus.be/nl/gebruiksvoorwaarden/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BE" href="https://michprk.github.io/versus.be/fr/conditions-utilisation/"/>
+  </url>
+</urlset>

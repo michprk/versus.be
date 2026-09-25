@@ -1,0 +1,3 @@
+# Versus Fleurs — site de démonstration, non référencé
+User-agent: *
+Disallow: /
