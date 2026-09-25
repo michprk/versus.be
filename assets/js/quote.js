@@ -1,6 +1,6 @@
 // Estimateur de budget + formulaire de devis (validation, anti-spam, envoi à l'API).
-import { estimate, describeLines, summarize, formatRange, DEFAULT_QTY } from './pricing.js';
-import { track } from './consent.js';
+import { estimate, describeLines, summarize, formatRange, DEFAULT_QTY } from './pricing.js?v=a92e515610';
+import { track } from './consent.js?v=a92e515610';
 
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -106,7 +106,8 @@ export function initQuote(i18n) {
   // Boutons des offres et des tarifs → pré-remplissent l'estimateur puis descendent au formulaire
   const goToQuote = () => {
     const sec = $('#devis');
-    sec.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
+    if (window.vsScrollTo) window.vsScrollTo(sec.getBoundingClientRect().top + scrollY - (parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop) || 80));
+    else sec.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
     const title = $('#devis-title');
     if (title) { title.setAttribute('tabindex', '-1'); setTimeout(() => title.focus({ preventScroll: true }), reduced ? 0 : 700); }
   };

@@ -1,7 +1,7 @@
 // Point d'entrée : en-tête, menu mobile, statut d'ouverture, CTA flottant, suivi analytics.
-import { initConsent, track } from './consent.js';
-import { initMotion } from './motion.js';
-import { initQuote } from './quote.js';
+import { initConsent, track } from './consent.js?v=a92e515610';
+import { initMotion } from './motion.js?v=a92e515610';
+import { initQuote } from './quote.js?v=a92e515610';
 
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
